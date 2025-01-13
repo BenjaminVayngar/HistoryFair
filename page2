@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8" name="viewport" content="width=device-width;height=device-height", initial-scale=1.0>
+  <title>Olympics</title>
+  <link href="style.css" rel="stylesheet" type="text/css"/>
+  <link rel="icon" href="/pictures/Black power salute.jpg" type="image/x-icon">
+  <script src="script.js"></script>
+</head>
+
+<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <a href="index.html">Main Page</a>
+  <a href="page1.html">Background Information</a>
+  <a href="javascript:void(0)" onclick="closeNav()">Olympics</a>
+  <a href="page3.html">People Related</a>
+  <a href="page4.html">Black Power Salute</a>
+  <a href="page5.html">Sources</a>
+  <!--<a href="#">Clients</a>
+  <a href="#">Contact</a>-->
+</div>
+
+<!-- Use any element to open the sidenav -->
+<span style="font-size:50px;cursor:pointer" onclick="openNav()">&#9776;</span>
+
+<body>
+  <h1>
+    <center>1968 Olympic Games </center>
+  </h1>
+  <img src="pictures/blu.png" width=65% height=65%>
+  <p style="font-size:30px">
+    On Oct. 16, 1968 during medal presentations at the 1968 Summer Olympic Games in Mexico City,two African-American athletes, Tommie Smith and John Carlos, each raised a black-gloved fist during the playing of the US national anthem this would be called The Black Power salute which was an act that scandalized the Olympics Tommie Smith and John Carlos were protesting aganist against discrimination. Smith later said, "If I win I am an American, not a black American. But if I did something bad then they would say 'a Negro'. We are black and we are proud of being black ... Black America will understand what we did tonight." showing how they were bringing awarness to  the olympics and america  and how they were protesting aginst racial discrimination.
+
+
+  </p>
+  <h1>
+    <center></center>
+  </h1>
+  <ul style="font-size:20px">
+    
+  </ul>
+</body>
+
+</html>
