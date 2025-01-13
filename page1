@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8" name="viewport" content="width=device-width;height=device-height", initial-scale=1.0>
+  <title>Background Information</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  <link rel="icon" href="/pictures/Black power salute.jpg" type="image/x-icon">
+  <script src="script.js"></script>
+</head>
+
+<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <a href="index.html">Main Page</a>
+  <a href="javascript:void(0)" onclick="closeNav()">Background Information</a>
+  <a href="page2.html">Olympics</a>
+  <a href="page3.html">People Related</a>
+  <a href="page4.html">Black Power Salute</a>
+  <a href="page5.html">Sources</a>
+  <!--<a href="#">Clients</a>
+  <a href="#">Contact</a>-->
+</div>
+
+<!-- Use any element to open the sidenav -->
+<span style="font-size:50px;cursor:pointer" onclick="openNav()">&#9776;</span>
+
+<body>
+  <h1>
+    <center></center>
+  </h1>
+  <h2>Learn To Code 1</h2>
+  <img src="pictures/ltc.png" width=65% height=65%>
+  <ul style="font-size:20px">
+    <li><b>For Loops: </b>Using for loops to repeat sequences of commands.</li>
+    <li><b>Conditional Code: </b>Using if statments to run only if a condition is met.</li>
+    <li><b>Logical Opertators: </b>Learning about "!" equaling "not" for Boolean values.</li>
+    <li><b>While Loops: </b>Loops that only work when a condition is true.</li>
+    <li><b>Algorithms: </b>Making functions to navigate around obstacles</li>
+  </ul>
+  <img src="pictures/ltc2.png" width=50% height=60%>
+  <ul style="font-size:20px">
+    <li><b>Types: </b>Becoming more specific with what we want our code to do.</li>
+    <li><b>Initialization: </b>Introducing a new character that is smarter then our first character.</li>
+    <li><b>Parameters: </b>Being specific about how far we want to move forward.</li>
+    <li><b>World Building: </b>Building the world.</li>
+    <li><b>Arrays: </b>Learning about Arrays.</li>
+  </ul>
+</body>
+
+</html>
